@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devindi Karunathilaka</h1>
-<h3 align="center">Frontend Developer specializing in React.js, Tailwind CSS, and modern web applications. Passionate about building responsive, high-performance, and user-friendly interfaces.</h3>
+<h3 align="center">Frontend Developer specializing in React.js, Next.js , React Native ,Tailwind CSS,  and modern web applications. Passionate about building responsive, high-performance, and user-friendly interfaces.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Inventory, HR, and Admin Systems at DI11 Soft (Pvt) Ltd**  
 - 🌱 Learning **Next.js, PWA development, and advanced state management**  
-- 💬 Ask me about **React.js, Tailwind CSS, Redux Toolkit, and API integration**  
+- 💬 Ask me about **React.js, Next.js , Tailwind CSS, Redux Toolkit, and API integration**  
 - 📫 How to reach me: **devindiwork@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
