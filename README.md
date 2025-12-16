@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devindin&label=Profile%20views&color=0e75b6&style=flat" alt="devindin" /> </p>
 
-- 🔭 I’m currently working on **Inventory, HR, and Admin Systems at DI11 Soft (Pvt) Ltd**  
-- 🌱 Learning **Next.js, PWA development, and advanced state management**  
+- 🔭 I’m currently working on **Price Update System MS Way Logistics (Pvt) Ltd**  
+- 🌱 Learning **React Native , Spring Boot and c#/.Net**  
 - 💬 Ask me about **React.js, Next.js , Tailwind CSS, Redux Toolkit, and API integration**  
 - 📫 How to reach me: **devindiwork@gmail.com**  
 
